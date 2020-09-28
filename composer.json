@@ -63,7 +63,7 @@
     "repositories": {
         "itp": {
             "type": "vcs",
-            "url": "https://github.com/itpartnersillinois/flarumcore"
+            "url": "https://github.com/itpartnersillinois/flarum/tree/master/vendor/flarum/core"
         }
     },
     "require-dev": {
