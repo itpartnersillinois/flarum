@@ -60,6 +60,15 @@
         "preferred-install": "dist",
         "sort-packages": true
     },
+    "repositories": {
+        "itp": {
+            "type": "vcs",
+            "url": "https://github.com/itpartnersillinois/flarumcore"
+        }
+    },
+    "require-dev": {
+	"flarum/core": "dev-master"
+    },
     "minimum-stability": "beta",
     "prefer-stable": true
 }
