@@ -1,0 +1,13 @@
+# https://github.com/AntoineFr/flarum-ext-online/blob/master/locale/en.yml
+# 4ec0460 on 3 Sep 2019
+# 2020-2-21 14:26:36 +0800
+
+antoinefr-online:
+  forum:
+    title: オンラインユーザー
+    andmore: "さらに {more} 人 ..."
+  admin:
+    settings:
+      title: 設定する
+      displaymax: 表示する数量
+      titleoflist: カスタムリストのタイトル
